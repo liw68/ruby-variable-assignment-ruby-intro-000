@@ -1,2 +1,1 @@
-gem install rspec 
-
+gem install rspec
